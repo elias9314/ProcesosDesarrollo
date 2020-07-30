@@ -1,0 +1,9 @@
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\Informatica.Negocio.deps.json
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\Informatica.Negocio.dll
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\bin\Debug\netcoreapp3.1\Informatica.Negocio.pdb
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.csprojAssemblyReference.cache
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.AssemblyInfoInputs.cache
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.AssemblyInfo.cs
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.dll
+C:\Users\erre1\source\repos\Informatica\Informatica.Negocio\obj\Debug\netcoreapp3.1\Informatica.Negocio.pdb
