@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj",
+        "projectName": "Informatica.Negocio",
+        "projectPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj",
+        "packagesPath": "C:\\Users\\erre1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erre1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
