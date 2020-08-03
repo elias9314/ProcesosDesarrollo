@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e0qcckzGWSH/B7J0OVgD6Lt1+IOQqH9mmaMQaE4+x4NT6geg5NWplFLzJ7unrrUbtJJ/xfpmGuFItyPiWw31oA==",
+  "dgSpecHash": "m8f5Uhc1APx6uizs/LLc3anDeJixAygR1cpbNQUqE+SF9OcZpK6z0XeH9WW/1mK2ndbTM/RtJIUbrc/086a3rw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.NegocioTest\\Informatica.NegocioTest.csproj",
+  "projectFilePath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.NegocioTest\\Informatica.NegocioTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erre1\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\erre1\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

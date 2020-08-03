@@ -133,11 +133,34 @@ namespace Informatica.NegocioTest
             Ordenamiento ordenamiento = new Ordenamiento();
             int[] actual = ordenamiento.Ordenarquick(numero1, numero2, numero3, numero4, numero5);
 
+            Assert.AreEqual(esperado3, actual[2]);
+            Assert.AreEqual(esperado4, actual[3]);
+            Assert.AreEqual(esperado5, actual[4]);
+
+
+        }
+
+        [TestMethod]
+        public void OrdenarRapido()
+        {
+            int[] orden = { 3, 4, 2, 1 };
+            int inicio = 0;
+            int fin = 3;
+
+            var esperado1 = 1;
+            var esperado2 = 2;
+            var esperado3 = 3;
+            var esperado4 = 4;
+
+            Ordenamiento ordenamiento = new Ordenamiento();
+            int[] actual = ordenamiento.Ordenrapido(orden, inicio, fin);
+
             Assert.AreEqual(esperado1, actual[0]);
             Assert.AreEqual(esperado2, actual[1]);
             Assert.AreEqual(esperado3, actual[2]);
             Assert.AreEqual(esperado4, actual[3]);
-            Assert.AreEqual(esperado5, actual[4]);
+
+
 
 
         }

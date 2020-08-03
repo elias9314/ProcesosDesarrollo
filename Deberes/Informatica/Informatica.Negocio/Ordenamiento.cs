@@ -148,5 +148,32 @@ namespace Informatica.Negocio
          return resultado;
         }
 
+        public int[] Ordenrapido(int[] orden, int inicio, int fin)
+        {
+
+            int i = inicio, j = fin , aux;
+            int pivote = orden[(inicio + fin) / 2];
+            while (i <= j)
+            {
+                while (orden[i] < pivote) i++;
+                while (orden[j] > pivote) j--;
+                if (i <= j)
+                {
+                    aux = orden[j];
+                    orden[j] = orden[i];
+                    orden[i] = aux;
+                    i++;
+                    j--;
+                }
+            }
+            if (inicio < j)
+                Ordenrapido(orden, inicio, j);
+            if (i < fin)
+                Ordenrapido(orden, i, fin);
+            return orden;
+
+
+
+        }
     }
 }

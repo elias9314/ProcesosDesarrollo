@@ -5737,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.NegocioTest\\Informatica.NegocioTest.csproj",
+      "projectUniqueName": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.NegocioTest\\Informatica.NegocioTest.csproj",
       "projectName": "Informatica.NegocioTest",
-      "projectPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.NegocioTest\\Informatica.NegocioTest.csproj",
+      "projectPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.NegocioTest\\Informatica.NegocioTest.csproj",
       "packagesPath": "C:\\Users\\erre1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.NegocioTest\\obj\\",
+      "outputPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.NegocioTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erre1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5757,8 +5757,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj": {
-              "projectPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj"
+            "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj": {
+              "projectPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj"
             }
           }
         }

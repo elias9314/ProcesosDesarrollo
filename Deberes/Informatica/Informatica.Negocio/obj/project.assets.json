@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj",
+      "projectUniqueName": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj",
       "projectName": "Informatica.Negocio",
-      "projectPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj",
+      "projectPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj",
       "packagesPath": "C:\\Users\\erre1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio\\obj\\",
+      "outputPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Deberes\\Informatica\\Informatica.Negocio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erre1\\AppData\\Roaming\\NuGet\\NuGet.Config",
