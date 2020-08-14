@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hilos.Consola", "Hilos.Consola\Hilos.Consola.csproj", "{1658BA9F-55FD-4D19-8A40-7339953278FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarreraHilos", "CarreraHilos\CarreraHilos.csproj", "{B46E78ED-7E39-4E56-9BE4-F156965DDC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1658BA9F-55FD-4D19-8A40-7339953278FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1658BA9F-55FD-4D19-8A40-7339953278FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1658BA9F-55FD-4D19-8A40-7339953278FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1658BA9F-55FD-4D19-8A40-7339953278FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B46E78ED-7E39-4E56-9BE4-F156965DDC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46E78ED-7E39-4E56-9BE4-F156965DDC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46E78ED-7E39-4E56-9BE4-F156965DDC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46E78ED-7E39-4E56-9BE4-F156965DDC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20E687AA-81D2-40E9-AAC5-9302E9FBCC38}
+	EndGlobalSection
+EndGlobal

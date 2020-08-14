@@ -1,0 +1,16 @@
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\Promedio.Consola.exe
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\Promedio.Consola.deps.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\Promedio.Consola.runtimeconfig.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\Promedio.Consola.runtimeconfig.dev.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\Promedio.Consola.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\Promedio.Consola.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\bin\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.AssemblyInfoInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.AssemblyInfo.cs
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.csproj.CoreCompileInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.csproj.CopyComplete
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.genruntimeconfig.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Estudiante.Consola\obj\Debug\netcoreapp3.1\Promedio.Consola.csprojAssemblyReference.cache

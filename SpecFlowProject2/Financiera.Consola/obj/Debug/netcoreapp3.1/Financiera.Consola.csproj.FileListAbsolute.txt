@@ -1,0 +1,16 @@
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Financiera.Consola.exe
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Financiera.Consola.deps.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Financiera.Consola.runtimeconfig.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Financiera.Consola.runtimeconfig.dev.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Financiera.Consola.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Financiera.Consola.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Calculadora2.Negocio.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\bin\Debug\netcoreapp3.1\Calculadora2.Negocio.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.csprojAssemblyReference.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.AssemblyInfoInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.AssemblyInfo.cs
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.csproj.CoreCompileInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.csproj.CopyComplete
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Financiera.Consola\obj\Debug\netcoreapp3.1\Financiera.Consola.genruntimeconfig.cache

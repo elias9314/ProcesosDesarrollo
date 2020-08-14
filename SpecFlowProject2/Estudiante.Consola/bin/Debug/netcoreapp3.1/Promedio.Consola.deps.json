@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Promedio.Consola/1.0.0": {
+        "dependencies": {
+          "CalcularPromedio.Estudiante": "1.0.0"
+        },
+        "runtime": {
+          "Promedio.Consola.dll": {}
+        }
+      },
+      "CalcularPromedio.Estudiante/1.0.0": {
+        "runtime": {
+          "CalcularPromedio.Estudiante.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Promedio.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalcularPromedio.Estudiante/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

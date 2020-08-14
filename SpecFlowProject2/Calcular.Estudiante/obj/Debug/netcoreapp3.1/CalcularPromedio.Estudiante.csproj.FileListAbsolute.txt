@@ -1,0 +1,9 @@
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\bin\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.deps.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\bin\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\bin\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\obj\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.csprojAssemblyReference.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\obj\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.AssemblyInfoInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\obj\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.AssemblyInfo.cs
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\obj\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.csproj.CoreCompileInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\obj\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Calcular.Estudiante\obj\Debug\netcoreapp3.1\CalcularPromedio.Estudiante.pdb

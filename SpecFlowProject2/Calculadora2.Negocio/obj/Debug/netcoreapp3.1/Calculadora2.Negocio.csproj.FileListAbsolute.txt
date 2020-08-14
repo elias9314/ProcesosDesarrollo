@@ -1,0 +1,9 @@
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\bin\Debug\netcoreapp3.1\Calculadora2.Negocio.deps.json
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\bin\Debug\netcoreapp3.1\Calculadora2.Negocio.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\bin\Debug\netcoreapp3.1\Calculadora2.Negocio.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\obj\Debug\netcoreapp3.1\Calculadora2.Negocio.AssemblyInfoInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\obj\Debug\netcoreapp3.1\Calculadora2.Negocio.AssemblyInfo.cs
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\obj\Debug\netcoreapp3.1\Calculadora2.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\obj\Debug\netcoreapp3.1\Calculadora2.Negocio.dll
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\obj\Debug\netcoreapp3.1\Calculadora2.Negocio.pdb
+C:\Users\erre1\source\repos\SpecFlowProject2\Calculadora2.Negocio\obj\Debug\netcoreapp3.1\Calculadora2.Negocio.csprojAssemblyReference.cache
