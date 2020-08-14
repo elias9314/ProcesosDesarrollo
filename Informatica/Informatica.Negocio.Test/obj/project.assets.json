@@ -1634,6 +1634,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Informatica.Negocio/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Informatica.Negocio.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Informatica.Negocio.dll": {}
+        }
       }
     }
   },
@@ -5705,10 +5715,16 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Informatica.Negocio/1.0.0": {
+      "type": "project",
+      "path": "../Informatica.Negocio/Informatica.Negocio.csproj",
+      "msbuildProject": "../Informatica.Negocio/Informatica.Negocio.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Informatica.Negocio >= 1.0.0",
       "MSTest.TestAdapter >= 2.1.0",
       "MSTest.TestFramework >= 2.1.0",
       "Microsoft.NET.Test.Sdk >= 16.5.0",
@@ -5721,11 +5737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio.Test\\Informatica.Negocio.Test.csproj",
+      "projectUniqueName": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Informatica\\Informatica.Negocio.Test\\Informatica.Negocio.Test.csproj",
       "projectName": "Informatica.Negocio.Test",
-      "projectPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio.Test\\Informatica.Negocio.Test.csproj",
+      "projectPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Informatica\\Informatica.Negocio.Test\\Informatica.Negocio.Test.csproj",
       "packagesPath": "C:\\Users\\erre1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\erre1\\source\\repos\\Informatica\\Informatica.Negocio.Test\\obj\\",
+      "outputPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Informatica\\Informatica.Negocio.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\erre1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5740,7 +5756,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj": {
+              "projectPath": "C:\\Users\\erre1\\source\\repos\\ProcesosDesarrollo\\Informatica\\Informatica.Negocio\\Informatica.Negocio.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
