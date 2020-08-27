@@ -160,11 +160,27 @@ namespace Informatica.NegocioTest
             Assert.AreEqual(esperado3, actual[2]);
             Assert.AreEqual(esperado4, actual[3]);
 
-
-
-
         }
 
+        [TestMethod]
+        public void OrdenarHeap()
+        {
+
+            int[] arreglo = { 25,1, 85, 64 };
+
+            var esperado1 = 1;
+            var esperado2 = 25;
+            var esperado3 = 64;
+            var esperado4 = 85;
+
+            Ordenamiento ordenamiento = new Ordenamiento();
+
+            int[] actual = ordenamiento.Ordenar(arreglo);
+            Assert.AreEqual(esperado1, actual[0]);
+            Assert.AreEqual(esperado2, actual[1]);
+            Assert.AreEqual(esperado3, actual[2]);
+            Assert.AreEqual(esperado4, actual[3]);
+        }
     }
 
 

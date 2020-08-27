@@ -106,17 +106,17 @@ namespace Informatica.Negocio
             resultado[4] = numero5;
             resultado[5] = numero6;
 
-            for( int intervalo = resultado.Length/2; intervalo > 0; intervalo /= 2)
+            for (int intervalo = resultado.Length / 2; intervalo > 0; intervalo /= 2)
             {
-                for( int i = intervalo; i < resultado.Length; i += 1)
+                for (int i = intervalo; i < resultado.Length; i += 1)
                 {
                     int j, aux = resultado[i];
-                    for( j = i; j >= intervalo && resultado[j-intervalo] > aux; j -= intervalo)
+                    for (j = i; j >= intervalo && resultado[j - intervalo] > aux; j -= intervalo)
                     {
                         resultado[j] = resultado[j - intervalo];
                     }
                     resultado[j] = aux;
-                } 
+                }
             }
             return resultado;
         }
@@ -129,14 +129,14 @@ namespace Informatica.Negocio
             resultado[2] = numero3;
             resultado[3] = numero4;
             resultado[4] = numero5;
-            int   ultimo = 4;
+            int ultimo = 4;
             int primero = 0;
             int pivote = resultado[primero + ultimo / 2];
             int aux;
             do {
                 while (resultado[primero] < pivote) primero++;
                 while (resultado[ultimo] > pivote) ultimo--;
-                if(primero <= ultimo)
+                if (primero <= ultimo)
                 {
                     aux = resultado[ultimo];
                     resultado[ultimo] = resultado[primero];
@@ -145,13 +145,13 @@ namespace Informatica.Negocio
                     ultimo--;
                 }
             } while (primero <= ultimo);
-         return resultado;
+            return resultado;
         }
 
         public int[] Ordenrapido(int[] orden, int inicio, int fin)
         {
 
-            int i = inicio, j = fin , aux;
+            int i = inicio, j = fin, aux;
             int pivote = orden[(inicio + fin) / 2];
             while (i <= j)
             {
@@ -174,6 +174,49 @@ namespace Informatica.Negocio
 
 
 
+        }
+
+
+        public int[] Ordenar(int[] arreglo)
+        {
+            int Incrementos = arreglo.Length;
+            
+            for (int p = (Incrementos - 1) / 2; p >= 0; --p)
+                incrementable(ref arreglo, Incrementos, p);
+
+            for (int i = arreglo.Length - 1; i > 0; --i)
+            {
+                int aux = arreglo[i];
+                arreglo[i] = arreglo[0];
+                arreglo[0] = aux;
+
+                --Incrementos;
+                incrementable(ref arreglo, Incrementos, 0);
+            }
+            return arreglo;
+        }
+
+        public static void incrementable(ref int[] datos, int Incrementos, int indice)
+        {
+            int izquierda = (indice + 1) * 2 - 1;
+            int derecha = (indice + 1) * 2;
+            int distancia = 0;
+
+            if (izquierda < Incrementos && datos[izquierda] > datos[indice])
+                distancia = izquierda;
+            else
+                distancia = indice;
+
+            if (derecha < Incrementos && datos[derecha] > datos[distancia])
+                distancia = derecha;
+            if (distancia != indice)
+            {
+                int temp = datos[indice];
+                datos[indice] = datos[distancia];
+                datos[distancia] = temp;
+
+                incrementable(ref datos, Incrementos, distancia);
+            }
         }
     }
 }
